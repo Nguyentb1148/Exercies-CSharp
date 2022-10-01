@@ -39,29 +39,31 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="BorderControl.cs" />
-        <Compile Include="Citizen.cs" />
-        <Compile Include="Ferrari.cs" />
-        <Compile Include="Interface\IBirthable.cs" />
-        <Compile Include="Interface\IBrowser.cs" />
-        <Compile Include="Interface\ICaller.cs" />
-        <Compile Include="Interface\ICar.cs" />
-        <Compile Include="Interface\ICitizen.cs" />
-        <Compile Include="Interface\Idrawable.cs" />
-        <Compile Include="Interface\IElectricCar.cs" />
-        <Compile Include="Interface\IFerrari.cs" />
-        <Compile Include="Interface\IIdentifiable.cs" />
-        <Compile Include="Interface\IPerson.cs" />
-        <Compile Include="Interface\IRobot.cs" />
-        <Compile Include="lab4-Interface\Circle.cs" />
-        <Compile Include="lab4-Interface\Rectangle.cs" />
-        <Compile Include="lab4-Interface\Seat.cs" />
-        <Compile Include="lab4-Interface\Tesla.cs" />
+        <Compile Include="lab4-Interface\Classes\BorderControl.cs" />
+        <Compile Include="lab4-Interface\Classes\Circle.cs" />
+        <Compile Include="lab4-Interface\Classes\Citizen.cs" />
+        <Compile Include="lab4-Interface\Classes\Ferrari.cs" />
+        <Compile Include="lab4-Interface\Classes\Pet.cs" />
+        <Compile Include="lab4-Interface\Classes\Rectangle.cs" />
+        <Compile Include="lab4-Interface\Classes\Robot.cs" />
+        <Compile Include="lab4-Interface\Classes\Seat.cs" />
+        <Compile Include="lab4-Interface\Classes\Smartphone.cs" />
+        <Compile Include="lab4-Interface\Classes\Tesla.cs" />
+        <Compile Include="lab4-Interface\Classes\Validator.cs" />
+        <Compile Include="lab4-Interface\Interface\IBirthable.cs" />
+        <Compile Include="lab4-Interface\Interface\IBrowser.cs" />
+        <Compile Include="lab4-Interface\Interface\ICaller.cs" />
+        <Compile Include="lab4-Interface\Interface\ICar.cs" />
+        <Compile Include="lab4-Interface\Interface\ICitizen.cs" />
+        <Compile Include="lab4-Interface\Interface\Idrawable.cs" />
+        <Compile Include="lab4-Interface\Interface\IElectricCar.cs" />
+        <Compile Include="lab4-Interface\Interface\IFerrari.cs" />
+        <Compile Include="lab4-Interface\Interface\IIdentifiable.cs" />
+        <Compile Include="lab4-Interface\Interface\IPerson.cs" />
+        <Compile Include="lab4-Interface\Interface\IPet.cs" />
+        <Compile Include="lab4-Interface\Interface\IRobot.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="Robot.cs" />
-        <Compile Include="Smartphone.cs" />
-        <Compile Include="Validator.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

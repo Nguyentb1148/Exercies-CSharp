@@ -5,5 +5,6 @@ namespace Exercies4_CSharp
         string Name { get; }
         int Age { get; }
         string Id { get; }
+        string BirthDate { get; }
     }
 }

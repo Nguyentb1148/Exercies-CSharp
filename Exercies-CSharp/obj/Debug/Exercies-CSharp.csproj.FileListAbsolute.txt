@@ -1,0 +1,6 @@
+/Users/tranbaonguyen/Exercies4-CSharp/Exercies-CSharp/bin/Debug/Exercies4_CSharp.exe
+/Users/tranbaonguyen/Exercies4-CSharp/Exercies-CSharp/bin/Debug/Exercies4_CSharp.pdb
+/Users/tranbaonguyen/Exercies4-CSharp/Exercies-CSharp/obj/Debug/Exercies-CSharp.csproj.AssemblyReference.cache
+/Users/tranbaonguyen/Exercies4-CSharp/Exercies-CSharp/obj/Debug/Exercies-CSharp.csproj.CoreCompileInputs.cache
+/Users/tranbaonguyen/Exercies4-CSharp/Exercies-CSharp/obj/Debug/Exercies4_CSharp.exe
+/Users/tranbaonguyen/Exercies4-CSharp/Exercies-CSharp/obj/Debug/Exercies4_CSharp.pdb
