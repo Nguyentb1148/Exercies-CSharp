@@ -5,19 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21400de2-3ef5-46aa-8b53-ef24e6e7b618" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exercies-CSharp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exercies-CSharp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exercies-CSharp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Exercies-CSharp/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.idea.Exercies4-CSharp/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercies-CSharp/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercies-CSharp/bin/Debug/Exercies4_CSharp.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercies-CSharp/bin/Debug/Exercies4_CSharp.pdb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercies-CSharp/lab4-Interface/Classes/Pet.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercies-CSharp/lab4-Interface/Interface/IPet.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercies-CSharp/obj/Debug/Exercies-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercies-CSharp/obj/Debug/Exercies-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercies-CSharp/obj/Debug/Exercies-CSharp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercies4-CSharp/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercies4-CSharp/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercies4-CSharp/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercies-CSharp/obj/Debug/Exercies4_CSharp.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercies-CSharp/obj/Debug/Exercies4_CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercies4-CSharp/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercies-CSharp/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercies4-CSharp/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercies-CSharp/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Exercies4-CSharp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Exercies-CSharp/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/BorderControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/lab4-Interface/Classes/BorderControl.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/Citizen.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/lab4-Interface/Classes/Citizen.cs" afterDir="false" />
@@ -39,8 +41,8 @@
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/Robot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/lab4-Interface/Classes/Robot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/Smartphone.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/lab4-Interface/Classes/Smartphone.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/Validator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/lab4-Interface/Classes/Validator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/bin/Debug/Exercies4_CSharp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/bin/Debug/Exercies4_CSharp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/bin/Debug/Exercies4_CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/bin/Debug/Exercies4_CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/bin/Debug/Exercies4_CSharp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/bin/Debug/Exercies4_CSharp.pdb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/lab4-Interface/Circle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/lab4-Interface/Classes/Circle.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/lab4-Interface/Rectangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/lab4-Interface/Classes/Rectangle.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/lab4-Interface/Seat.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/lab4-Interface/Classes/Seat.cs" afterDir="false" />
@@ -49,8 +51,8 @@
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/obj/Debug/Exercies4-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/obj/Debug/Exercies4-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/obj/Debug/Exercies4-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/obj/Debug/Exercies4-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/obj/Debug/Exercies4-CSharp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/obj/Debug/Exercies4-CSharp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/obj/Debug/Exercies4_CSharp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/obj/Debug/Exercies4_CSharp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/obj/Debug/Exercies4_CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercies-CSharp/obj/Debug/Exercies4_CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/obj/Debug/Exercies4_CSharp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercies4-CSharp/obj/Debug/Exercies4_CSharp.pdb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +206,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664585293886</updated>
-      <workItem from="1664585306803" duration="15274000" />
+      <workItem from="1664585306803" duration="15357000" />
     </task>
     <servers />
   </component>

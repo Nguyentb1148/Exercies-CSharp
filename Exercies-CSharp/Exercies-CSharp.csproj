@@ -39,6 +39,21 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Lab-2  Encapsulation\Car.cs" />
+        <Compile Include="Lab-2  Encapsulation\Cargo.cs" />
+        <Compile Include="Lab-2  Encapsulation\Engine.cs" />
+        <Compile Include="Lab-2  Encapsulation\Program.cs" />
+        <Compile Include="Lab-2  Encapsulation\Tire.cs" />
+        <Compile Include="Lab-3  Inheritance\Box.cs" />
+        <Compile Include="Lab-3  Inheritance\Chicken.cs" />
+        <Compile Include="Lab-3  Inheritance\Dough.cs" />
+        <Compile Include="Lab-3  Inheritance\Person.cs" />
+        <Compile Include="Lab-3  Inheritance\Pizza.cs" />
+        <Compile Include="Lab-3  Inheritance\Product.cs" />
+        <Compile Include="Lab-3  Inheritance\Program.cs" />
+        <Compile Include="Lab-3  Inheritance\Topping.cs" />
+        <Compile Include="Lab-3  Inheritance\Validator.cs" />
+        <Compile Include="Lab1-ClassObject\BankAccount1.cs" />
         <Compile Include="lab4-Interface\Classes\BorderControl.cs" />
         <Compile Include="lab4-Interface\Classes\Circle.cs" />
         <Compile Include="lab4-Interface\Classes\Citizen.cs" />
